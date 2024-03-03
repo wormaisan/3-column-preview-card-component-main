@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "LexendDeca";
+  src: url("../fonts/LexendDeca-Regular.ttf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "BigShouldersDisplay";
+  src: url("../fonts/BigShouldersDisplay-Bold.ttf");
+  font-weight: 700;
+}
